@@ -1,0 +1,90 @@
+
+body{
+width:100%;
+margin:0px auto;
+padding:0px;
+text-align:center;
+background-size:100% 100%;
+
+}
+body2{
+width:1200px;
+height:600px;
+margin:0px auto;
+padding:0px;
+text-align:center;
+
+}
+
+.main{
+width:900px;
+margin:0 auto;
+font-size:16px;
+}
+.logo{
+width:310px;
+margin-top:50px;
+margin-bottom:30px;	
+}
+.content{
+width:900px;	
+}
+.left{
+float:left;
+width:500px;
+height:400px;
+border-radius:5px;		
+}
+.left img{
+border-radius:5px;	
+}
+.right{
+float:right;
+width:385px;
+height:400px;
+color£ºblack;
+border:1px #CCCCCC solid; 
+box-shadow:2px 2px 3px rgba(102,102,102,0.5);
+border-radius:5px;
+padding-top:20px;	
+}
+.username{
+width:300px;
+height:35px;
+border:1px #999999 solid;
+border-radius:3px;
+text-indent:2em;
+box-shadow:0px 0px 5px rgba(102,102,102,0.5);
+font-size:13px;	
+}
+.username:hover{border:1px #F90 solid;	
+box-shadow:0px 0px 5px rgba(102,102,102,0.5);
+}
+a{
+text-decoration:none;
+color:#000;	
+font-size:12px;
+font-family:Verdana, Geneva, sans-serif;
+}
+a:hover{
+text-decoration:underline;
+font-size:14px;	
+}
+.button{
+width:300px;
+height:40px;
+font-family:"ºÚÌå";
+background-color:#F60;
+border:#F63 solid 5px;
+box-shadow:0px 0px 10px rgba(255,153,51,0.8);	
+font-size:16px;
+letter-spacing:0.5em;
+color:#FFF;
+}
+.footer{
+clear:both;	
+text-align:center;
+padding-top:30px;
+font-size:14px;
+font-family:"ºÚÌå";
+}
